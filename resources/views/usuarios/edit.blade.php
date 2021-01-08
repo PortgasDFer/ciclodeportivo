@@ -1,0 +1,1 @@
+<a class="pull-left btn btn-success" href="#PlaceModal-{{$id}}" data-toggle="modal" title="{{ $name }}"><i class="fa fa-pencil" aria-hidden="true"></i></a>

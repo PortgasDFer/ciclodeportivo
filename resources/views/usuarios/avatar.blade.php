@@ -1,0 +1,1 @@
+<img src="/imgusers/{{$avatar}}" class="img-circle elevation-2" style="height: 55px; width: 55px;"/>
